@@ -1,5 +1,5 @@
-# Learning_sequel
+# Learnings ....
 
-This Sequel is for basic python.
+This Sequel of repos is for basic python.
 
 Thaks:)
